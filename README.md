@@ -2,8 +2,8 @@
 Arduino with dht11 sensor - nrf24 - Raspberry Pi publishing to adafruit.io
 # Guide
 ## Initial Tests
-#Use RF24/examples_linux/pingpair_dyn.py to test initial connections
-#Use pingpair_dyn with `radio.printDetails()` commented out
+* Use RF24/examples_linux/pingpair_dyn.py to test initial connections
+* Use pingpair_dyn with `radio.printDetails()` commented out
 ### Wiring - Pi (Test only)
 * GND - Pin1
 * 3v - Pin2
